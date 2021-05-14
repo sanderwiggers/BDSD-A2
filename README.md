@@ -1,5 +1,5 @@
-# BDSD Assignment 2:
-## Letterfrequenties
+# BDSD Assignment 2: Letterfrequenties
+## Bewijs van de werking
 
 De output van de totale code die we runnen op het door de HU gegeven bestand: </br>
 ![](Screenshots/screenshot2.png)
@@ -13,9 +13,12 @@ Ofterwijl: 184 regels van de 192 worden juist herkend. </br>
 
 184 / 192 * 100% = een accuratie van **95.83%**
 
-___
 
 De output van het runnen van de code van de JAR: </br>
 ![](Screenshots/screenshot1.png)
 
 Zoals in de afbeelding hierboven te zien is, draait de code zonder complicaties. </br>
+
+___
+## Instructies
+
